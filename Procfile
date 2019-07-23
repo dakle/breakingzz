@@ -1,1 +1,1 @@
-workerasf48: node asf48.js
+workerasf47: node asf47.js
