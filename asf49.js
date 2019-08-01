@@ -1932,7 +1932,7 @@ client51.on('message', msg => {
     if(msg.author.id === ownerid){
         if(msg.content.startsWith('c')){
 
-            if(msg.isMentioned(client50.user)){
+            if(msg.isMentioned(client51.user)){
                 farm.set(`farm`, 'blah blah')
                 let args = msg.content.split(` `)
                 msg.channel.send(`#credits <@600450236326084620> ${args[2]}`).then(()=>{
@@ -1953,7 +1953,7 @@ client52.on('message', msg => {
     if(msg.author.id === ownerid){
         if(msg.content.startsWith('c')){
 
-            if(msg.isMentioned(client50.user)){
+            if(msg.isMentioned(client52.user)){
                 farm.set(`farm`, 'blah blah')
                 let args = msg.content.split(` `)
                 msg.channel.send(`#credits <@600450236326084620> ${args[2]}`).then(()=>{
