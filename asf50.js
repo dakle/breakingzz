@@ -138,20 +138,7 @@ client8.login(process.env.S8);
 
 
 
-const client9 = new Discord.Client();
 
-client9.on("ready", () => {
-
-	      var interval = setInterval (function () {
-        client9.channels.get("607566145523810319").send(Math.random().toString(36).substring(7)) 
-
-}, 270000);
-
-});
-
-
-
-client9.login(process.env.S9);
 
 
 
