@@ -9,3 +9,4 @@ workerasf57: node asf57.js
 workerasf58: node asf58.js
 workerasf59: node asf59.js
 workerasf60: node asf60.js
+workerasf61: node asf61.js
