@@ -12,3 +12,4 @@ workerasf60: node asf60.js
 workerasf61: node asf61.js
 workerasf62: node asf62.js
 workerasf63: node asf63.js
+workerasf64: node asf64.js
