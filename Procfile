@@ -16,3 +16,6 @@ workerasf64: node asf64.js
 workerasf65: node asf65.js
 workerasf66: node asf66.js
 workerasf67: node asf67.js
+workerasf68: node asf68.js
+workerasf69: node asf69.js
+workerasf70: node asf70.js
